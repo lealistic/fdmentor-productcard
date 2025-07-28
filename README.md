@@ -27,15 +27,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desafio prático do Front-End Mentor que consistiu na criação de um cartão de produto responsivo utilizando layout em grid. Durante o desenvolvimento, utilizei o Figma para mapear o layout a partir de uma imagem de referência, utilizei boas práticas de HTML e CSS, aplicando:
+Desafio prático do Front-End Mentor que consistiu na criação de um cartão de produto responsivo utilizando CSS Grid para estruturação do layout. Durante o processo:
 
-✔ HTML Semântico para melhor estruturação;
+✔ **Figma** para reprodução fiel do design com base em uma imagem de referência;
 
-✔ Layouts com Grid e Flexbox para alinhamento responsivo;
+✔ **HTML semântico** para organização clara e acessível do conteúdo;
 
-✔ Media Queries para adaptação de layout e imagens para diferentes telas;
+✔ **CSS Grid e Flexbox** para alinhamento preciso e adaptabilidade;
 
-✔ Acessibilidade com atributos como aria-labelledby para leitores de tela.
+✔ **Media Queries** para ajustes de layout e imagens em diferentes tamanhos de tela;
+
+✔ **Acessibilidade** reforçada com atributos como `aria-labelledby` para melhor experiência em leitores de tela.
 
 🔗 [Link para acesso ao desafio](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
